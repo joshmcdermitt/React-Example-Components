@@ -1,6 +1,6 @@
 # React Example Components - Goals Module
 
-A comprehensive React/TypeScript application demonstrating modern frontend development patterns with a focus on Goals management functionality.
+A comprehensive React/TypeScript application demonstrating modern frontend development patterns with a focus on Goals management and development planning functionality.
 
 ## 🚀 Technologies Used
 
